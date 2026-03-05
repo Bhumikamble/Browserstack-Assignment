@@ -1,0 +1,15 @@
+# Web automation
+selenium==4.11.2
+
+# HTML parsing
+beautifulsoup4==4.12.2
+
+# Translation
+deep-translator==1.12.7
+
+# Environment variables
+python-dotenv==1.1.1
+
+# Testing framework
+pytest==9.0.2
+
