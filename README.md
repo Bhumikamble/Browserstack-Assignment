@@ -5,6 +5,10 @@
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-Cross--Browser%20Testing-orange)
 ![PyTest](https://img.shields.io/badge/PyTest-Testing-yellow)
 
+## 🎥 Project Demo
+
+[▶️ Watch Project Demo](https://drive.google.com/file/d/1PJLpHBJUCswwpYZ8SUuoibHJ1yBVKyRc/view?usp=sharing)
+
 ## 📖 Overview
 
 This project automates a workflow that scrapes and analyzes articles from the **El País Opinion section** using **Selenium and BrowserStack**.
