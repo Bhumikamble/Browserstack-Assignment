@@ -13,6 +13,7 @@ def scrape_articles():
 
     # Step 4: Navigate to the target website
     driver.get("https://elpais.com/")
+    
     # Step 5: Wait for page to fully load
     time.sleep(5)
 

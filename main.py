@@ -1,7 +1,7 @@
 # Step 1: Import required modules
-from scraper import scrape_articles
-from translator import translate_text
-from analyzer import analyze_titles
+from scraper.scraper import scrape_articles
+from translator.translator import translate_text
+from analyzer.analyzer import analyze_titles
 
 # Step 2: Scrape Spanish articles from the web
 spanish_titles = scrape_articles()
